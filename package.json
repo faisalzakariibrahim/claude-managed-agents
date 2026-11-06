@@ -30,7 +30,7 @@
     "typescript": "^5.9.3",
     "vite": "^6.0.0",
     "vitest": "^3.0.0",
-    "wrangler": "^4.76.0"
+    "wrangler": "^4.158.0"
   },
   "cloudflare": {
     "bindings": {
@@ -63,7 +63,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "@anthropic-ai/sdk": "https://app.stainless.com/pkg/s/anthropic-typescript/11dd7e25acfec7caffc11c06d11629f42846b595/dist.tar.gz",
+    "@anthropic-ai/sdk": "^1.6.0",
     "@cloudflare/codemode": "^0.3.4",
     "@cloudflare/kumo": "^2.0.2",
     "@cloudflare/puppeteer": "^1.1.0",
